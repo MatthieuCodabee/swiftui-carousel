@@ -13,14 +13,14 @@ Dans ce tutoriel, vous découvrirez comment :
 
 ### 🎥 Regardez le tutoriel complet sur YouTube
 
-Suivez toutes les étapes dans cette vidéo exclusive disponible sur notre chaîne YouTube Codabee :  
-[**Tutoriel YouTube : Créer un carrousel d'images de chats**](https://youtu.be/ONumgjODuVE)
+[![Tutoriel YouTube : Créer un carrousel d'images de chats](https://img.youtube.com/vi/ONumgjODuVE/maxresdefault.jpg)](https://youtu.be/ONumgjODuVE)
+
 
 ## 📂 Installation
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/VotrePseudoGithub/nom-du-repo.git
+   git clone https://github.com/MatthieuCodabee/swiftui-carousel.git
    ```
 2. Ouvrez le fichier `.xcodeproj` dans Xcode.
 3. Lancez le simulateur et admirez votre carrousel d'images animé !
